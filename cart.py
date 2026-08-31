@@ -12,3 +12,5 @@ def apply_discount(total, percent):
 print("Change made for feature branch")
 
 print("Change made for branch main")
+
+print("Change made for PULL REQUEST")
