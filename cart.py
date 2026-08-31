@@ -10,3 +10,5 @@ def apply_discount(total, percent):
     return total - (total * percent / 100)
 
 print("Change made for feature branch")
+
+print("Change made for branch main")
